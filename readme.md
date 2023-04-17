@@ -7,3 +7,5 @@ Items Required:
 
 Details:
 The printer will work under the email [postitprinter@gmail.com](postitprinter@gmail.com)
+
+This repo is protected by the [](LICENSE) license
